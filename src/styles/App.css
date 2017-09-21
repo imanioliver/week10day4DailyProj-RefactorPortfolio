@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+/*
+nav{
+  padding-top: 40px;
+  display: inline;
+}*/
+
+.myName{
+    font-family: Arizonia;
+    font-size: 100%;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.colorDiv {
+    background-color: rgba(23, 18, 25, .0);
+    height: 75vh;
+    width: 75vw;
+    margin:auto;
+    border-radius: 15px;
+}
+/*
+a {
+    text-decoration: none;
+}
+
+a :hover {
+    text-decoration: none;
+}*/
